@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NexterDay</string>
+    <string name="username_reg">Username</string>
+    <string name="email_reg">Email</string>
+    <string name="password_reg">Password</string>
+    <string name="register">Register</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="go_back">Press to go back</string>
+    <string name="email_login">Email</string>
+    <string name="password_login">Password</string>
+    <string name="log_in">Log In</string>
+    <string name="sign_out">Sign Out</string>
+</resources>
